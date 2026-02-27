@@ -1,0 +1,79 @@
+Run: 2026-02-26 17:50:57
+Source: C:\Users\clara\Downloads\books
+Output: C:\Users\clara\Downloads\covers
+Scanning 'C:\Users\clara\Downloads\books' recursively...
+
+  [skip] .  — no images
+  [copy] CCompanion\Cコンパニオン Allen I.Holub 著 ／ 村上峰子 訳_0000.jpg  →  1.jpg
+  [skip] CLIP_STUDIO_PAINT_PRO⁄EX  — no images
+  [copy] CLIP_STUDIO_PAINT_PRO⁄EX\CLIP STUDIO PAINT PRO⁄EX\cover00085.jpeg  →  2.jpeg
+  [skip] Denshi_Kosaku_Tsukuru_Kiso_Nyumon  — no images
+  [copy] Denshi_Kosaku_Tsukuru_Kiso_Nyumon\Denshi Kosaku Tsukuru Kiso Nyumon\ôdÄqìHì8é¦æf_000.jpg  →  3.jpg
+  [skip] Dijitaru_eizo_CG_image  — no images
+  [skip] Dijitaru_eizo_CG_image\Dijitaru eizo CG image  — no images
+  [copy] Dottoe Kyoshitsu\No-0000.png  →  4.png
+  [skip] FASHION_GIRLS_miya  — no images
+  [copy] FASHION_GIRLS_miya\FASHION GIRLS miya\00000.jpg  →  5.jpg
+  [skip] Fasshon_Gyokaijin_ni_Naru_Hon  — no images
+  [copy] Fasshon_Gyokaijin_ni_Naru_Hon\Fasshon Gyokaijin ni Naru Hon\ファッション業界人になる本。_imgs-0001.jpg  →  6.jpg
+  [skip] Hitozuma_Kudoku_Gijutsu_Furin_dehanai  — no images
+  [copy] Joseigakanaraz48tekanze\00002.jpeg  →  7.jpeg
+  [skip] Kantan_Photoshop_CG_Tekunikku_Jiten  — no images
+  [copy] Kantan_Photoshop_CG_Tekunikku_Jiten\Kantan Photoshop CG Tekunikku Jiten\PCG001.jpg  →  8.jpg
+  [skip] Kateru_Majan_kyoshitsu  — no images
+  [skip] Kateru_Majan_kyoshitsu\Kateru Majan kyoshitsu  — no images
+  [skip] Kojinjigyou_no_Hajimekata  — no images
+  [copy] Kojinjigyou_no_Hajimekata\Kojinjigyou no Hajimekata\001.jpg  →  9.jpg
+  [skip] LSD_Raburi_Suito_Dorimu  — no images
+  [copy] LSD_Raburi_Suito_Dorimu\LSD Raburi Suito Dorimu\Lovely_Sweet_Dream_001.png  →  10.png
+  [copy] Mini Kyarakuta no Egakiwake\001_000_front.jpg  →  11.jpg
+  [skip] Moe_Rorita_Fasshon_no_Egakikata  — no images
+  [copy] Moe_Rorita_Fasshon_no_Egakikata\Moe Rorita Fasshon no Egakikata\_cover.jpeg  →  12.jpeg
+  [skip] Moekyara_no_jozuna_kakikata  — no images
+  [skip] Moekyara_no_jozuna_kakikata\Moekyara no jozuna kakikata  — no images
+  [skip] MOEOH_Selection_Signature_Girl_Album  — no images
+  [skip] MOEOH_Selection_Signature_Girl_Album\MOEOH Selection_Signature Girl Album  — no images
+  [copy] MOEOH_Selection_Signature_Girl_Album\MOEOH Selection_Signature Girl Album\MOEOHセレクション 看板娘アルバム ～かわいい看板娘がいっぱい載っててどんな娘か教えてくれる本～\001.png  →  13.png
+  [copy] MokochannoMora\img20180708_12275866.jpg  →  14.jpg
+  [skip] Monsuta_San_Mun_Urutora_Essential  — no images
+  [copy] Monsuta_San_Mun_Urutora_Essential\Monsuta San Mun Urutora Essential\001_Cover.jpg  →  15.jpg
+  [skip] Morikubo ga manabu kakuritsu-ron x4  — no images
+  [skip] Natsukashipafekutogaido_Vol.4  — no images
+  [skip] Natsukashipafekutogaido_Vol.5  — no images
+  [copy] Natsukashipafekutogaido_Vol.4\Natsukashipafekutogaido Vol.4\cover00157.jpeg  →  16.jpeg
+  [copy] Natsukashipafekutogaido_Vol.5\Natsukashipafekutogaido Vol.5\cover00157.jpeg  →  17.jpeg
+  [copy] Ochikochikihonza\00001.jpg  →  18.jpg
+  [skip] Ojisan_Egakiwake_Tekunikku_Kao_Karadahen  — no images
+  [copy] Ojisan_Egakiwake_Tekunikku_Kao_Karadahen\Ojisan Egakiwake Tekunikku Kao Karadahen\ozisanMiao_kiFen_ketekunituku_Y_YANAMi_002_002.jpg  →  19.jpg
+  [skip] Onnanokoninaritai!_Motto_motto  — no images
+  [skip] Onnanokoninaritai!_Motto_motto\Onnanokoninaritai! Motto motto  — no images
+  [skip] Shin_teiban_furugi_zukan  — no images
+  [skip] Shin_teiban_furugi_zukan\Shin teiban furugi zukan  — no images
+  [skip] Shkanokubetsu2019  — no images
+  [copy] SUPER SONICO 10th Anniversary Book\001.jpg  →  20.jpg
+  [skip] Yoku_wakaru_sakkyoku_no_kyokasho  — no images
+  [skip] Yoku_wakaru_sakkyoku_no_kyokasho\Yoku wakaru sakkyoku no kyokasho  — no images
+  [skip] アニメディア_2026年03月号  — no images
+  [skip] ウマ娘_プリティーダービー_アートワークス_v01-03  — no images
+  [copy] Onnanokoninaritai!_Motto_motto\Onnanokoninaritai! Motto motto\[三葉] オンナノコになりたい！もっともっと、オンナノコ編\onanoko001.jpg  →  21.jpg
+  [copy] Yoku_wakaru_sakkyoku_no_kyokasho\Yoku wakaru sakkyoku no kyokasho\[秋山公良] よくわかる作曲の教科書\[秋山公良] よくわかる作曲の教科書_imgs-0001.jpg  →  22.jpg
+  [copy] アニメディア_2026年03月号\アニメディア 2026年03月号\001.jpg  →  23.jpg
+  [skip] ウマ娘_プリティーダービー_アートワークス_v01-03\ウマ娘 プリティーダービー アートワークス v01-03  — no images
+  [copy] ウマ娘_プリティーダービー_アートワークス_v01-03\ウマ娘 プリティーダービー アートワークス v01-03\ウマ娘 プリティーダービー アートワークス Vol.01 [DL版]\0_001.jpg  →  24.jpg
+  [copy] ウマ娘_プリティーダービー_アートワークス_v01-03\ウマ娘 プリティーダービー アートワークス v01-03\ウマ娘 プリティーダービー アートワークス Vol.02 [DL版]\001_cover.jpg  →  25.jpg
+  [copy] ウマ娘_プリティーダービー_アートワークス_v01-03\ウマ娘 プリティーダービー アートワークス v01-03\ウマ娘 プリティーダービー アートワークス Vol.03 [DL版]\cover.jpg  →  26.jpg
+  [copy] Dijitaru_eizo_CG_image\Dijitaru eizo CG image\ディジタル映像表現 -CGによるアニメーション制作- [改訂新版]\cover.jpg  →  27.jpg
+  [copy] マンガでわかる! 楽しく読める人工知能 AI 《超入門》\cover.jpeg  →  28.jpeg
+  [copy] Kateru_Majan_kyoshitsu\Kateru Majan kyoshitsu\勝てる！まーじゃん教室\001.jpg  →  29.jpg
+  [copy] Shin_teiban_furugi_zukan\Shin teiban furugi zukan\新・定番古着図鑑\新・定番古着図鑑_imgs-0001.jpg  →  30.jpg
+  [copy] Morikubo ga manabu kakuritsu-ron x4\森久保が学ぶ確率論 ～確率論の基礎～\0.png  →  31.png
+  [copy] Morikubo ga manabu kakuritsu-ron x4\森久保が学ぶ確率論～ランダムウォーク～\0.png  →  32.png
+  [copy] Morikubo ga manabu kakuritsu-ron x4\森久保が学ぶ確率論～共分散の基礎～\0.png  →  33.png
+  [copy] Morikubo ga manabu kakuritsu-ron x4\森久保が学ぶ確率論～分布と密度～\0.png  →  34.png
+  [copy] Moekyara_no_jozuna_kakikata\Moekyara no jozuna kakikata\萌えキャラの上手な描き方―美少女やデフォルメキャラを生き生き描くためのノウハウを満載!\001.jpg  →  35.jpg
+  [copy] Shkanokubetsu2019\週刊アスキー特別編集 2019冬の超お買物特大号\001.jpg  →  36.jpg
+  [copy] 週刊少年サンデー 2026年13号\0001.jpg  →  37.jpg
+
+Done. Copied 37 image(s), skipped 33 folder(s) with no images.
+Output: C:\Users\clara\Downloads\covers
+Log:    C:\Users\clara\Downloads\covers\copy_log_20260226_175057.txt
